@@ -1,0 +1,38 @@
+_repo: The-Launch-Boys-Adventures-in-Northern-Waters_25849
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hughes, Burton Donnel
+    gutenberg_agent_id: '31611'
+    url: http://www.gutenberg.org/2009/agents/31611
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, E. S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, Edward S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2008-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+title: The Launch Boys' Adventures in Northern Waters
+url: http://www.gutenberg.org/ebooks/25849
